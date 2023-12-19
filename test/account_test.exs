@@ -1,4 +1,5 @@
 defmodule AccountTest do
+  @moduledoc false
   use ExUnit.Case
   doctest Account
 
